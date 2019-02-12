@@ -4,13 +4,19 @@ Some scripts that will export images in the correct sizes for various Twitch ima
 ## TwitchEmoteSaver
 
 Installation:
-1. Place script in your PhotoShop Scripts directory. This is usually `C:\Program Files\Adobe\Adobe Photoshop CS#\Presets\Scripts\`
-2. Restart Photoshop
-3. With the desired image open, click File -> Scripts -> TwitchEmoteSaver
+1. Download `TwitchEmoteSaver.jsx`
+2. Place script in your PhotoShop Scripts directory. This is usually `C:\Program Files\Adobe\Adobe Photoshop CS#\Presets\Scripts\`
+3. Restart Photoshop
+4. With the desired image open, click File -> Scripts -> TwitchEmoteSaver
 
 ## TwitchBadgeSaver
 
 Installation:
-1. Place script in your PhotoShop Scripts directory. This is usually `C:\Program Files\Adobe\Adobe Photoshop CS#\Presets\Scripts\`
-2. Restart Photoshop
-3. With the desired image open, click File -> Scripts -> TwitchBadgeSaver
+1. Download `TwitchBadgeSaver.jsx`
+2. Place script in your PhotoShop Scripts directory. This is usually `C:\Program Files\Adobe\Adobe Photoshop CS#\Presets\Scripts\`
+3. Restart Photoshop
+4. With the desired image open, click File -> Scripts -> TwitchBadgeSaver
+
+## Requirements
+
+Adobe Photoshop CS2, or higher
