@@ -13,7 +13,7 @@ Installation:
 
 ## TwitchBadgeSaver
 
-Saves the currently open image called `my_emote.psd` (for example) as three files in the same directory: `my_emote_72x72.png`, `my_emote_36x36.png`, and `my_emote_18x18.png`.
+Saves the currently open image called `my_badge.psd` (for example) as three files in the same directory: `my_badge_72x72.png`, `my_badge_36x36.png`, and `my_badge_18x18.png`.
 
 Installation:
 1. Download `TwitchBadgeSaver.jsx`
