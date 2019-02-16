@@ -3,7 +3,7 @@ Some scripts that will export images in the correct sizes for various Twitch ima
 
 ## TwitchEmoteSaver
 
-Saves the currently open image called `my_emote.psd` and creates three files in the same directory: `my_emote_112x112.png`, `my_emote_56x56.png`, and `my_emote_28x28.png`.
+Saves the currently open image called `my_emote.psd` (for example) as three files in the same directory: `my_emote_112x112.png`, `my_emote_56x56.png`, and `my_emote_28x28.png`.
 
 Installation:
 1. Download `TwitchEmoteSaver.jsx`
@@ -13,7 +13,7 @@ Installation:
 
 ## TwitchBadgeSaver
 
-Saves the currently open image called `my_emote.psd` and creates three files in the same directory: `my_emote_72x72.png`, `my_emote_36x36.png`, and `my_emote_18x18.png`.
+Saves the currently open image called `my_emote.psd` (for example) as three files in the same directory: `my_emote_72x72.png`, `my_emote_36x36.png`, and `my_emote_18x18.png`.
 
 Installation:
 1. Download `TwitchBadgeSaver.jsx`
