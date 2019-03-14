@@ -26,7 +26,7 @@ app.bringToFront();
 if (isCorrectVersion() && isOpenDocs() && hasLayers()) {
     try {
         currentImage = app.activeDocument;
-        image_sizes = [112, 52, 28];
+        image_sizes = [112, 56, 28];
 
         for (var i = 0; i < image_sizes.length; i++) {
             saveImage(currentImage, image_sizes[i], image_sizes[i]);
