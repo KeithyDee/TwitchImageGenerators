@@ -45,7 +45,7 @@ Copies the current file into a new file, resizes the image
 to the width and height provided, then saves 
 */
 function saveImage(currentImage, width, height) {
-    var currentFilename = currentImage.name.replace(/\..+$/, '');
+    var currentFilename = currentImage.name.replace(/\..+$/, '').replace(/\s+/, '-');
     var filename = currentFilename + "_" + width + "x" + height + ".png"; // Edit this to change output file format
     var filepath = currentImage.path + "/" + filename;
     var newFile = File(filepath);  
